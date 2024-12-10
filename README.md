@@ -5,6 +5,7 @@
 
 ## Team Member
 - Swetha Kuruva
+- Shashidhar Reddy Virupa
 
 ---
 
